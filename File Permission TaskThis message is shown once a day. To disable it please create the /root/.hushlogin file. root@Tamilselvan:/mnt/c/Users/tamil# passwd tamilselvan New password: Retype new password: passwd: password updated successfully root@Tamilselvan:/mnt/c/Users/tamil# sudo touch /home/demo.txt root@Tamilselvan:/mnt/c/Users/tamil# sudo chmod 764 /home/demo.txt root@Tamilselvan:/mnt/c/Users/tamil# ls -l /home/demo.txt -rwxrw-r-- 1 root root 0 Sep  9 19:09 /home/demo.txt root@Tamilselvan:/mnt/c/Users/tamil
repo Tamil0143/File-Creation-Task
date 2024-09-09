@@ -1,0 +1,11 @@
+This message is shown once a day. To disable it please create the
+/root/.hushlogin file.
+root@Tamilselvan:/mnt/c/Users/tamil# passwd tamilselvan
+New password:
+Retype new password:
+passwd: password updated successfully
+root@Tamilselvan:/mnt/c/Users/tamil# sudo touch /home/demo.txt
+root@Tamilselvan:/mnt/c/Users/tamil# sudo chmod 764 /home/demo.txt
+root@Tamilselvan:/mnt/c/Users/tamil# ls -l /home/demo.txt
+-rwxrw-r-- 1 root root 0 Sep  9 19:09 /home/demo.txt
+root@Tamilselvan:/mnt/c/Users/tamil#
