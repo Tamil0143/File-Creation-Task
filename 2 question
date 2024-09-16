@@ -1,0 +1,13 @@
+2.I have deployed an application in guvi.com:9000, and logs show my app is running, but I’m unable to view the page. Check whether my port is open or not ?
+
+Answer:-
+
+ tamilselvan@Tamilselvan:~$ telnet guvi.com 9000
+Trying 104.21.79.166...
+Trying 172.67.146.154...
+Trying 2606:4700:3031::6815:4fa6...
+Trying 2606:4700:3037::ac43:929a...
+telnet: Unable to connect to remote host: Network is unreachable
+tamilselvan@Tamilselvan:~$
+
+
