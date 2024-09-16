@@ -3,7 +3,7 @@
 
   tamilselvan@Tamilselvan:~$ nslookup guvi.in
 Server:         10.255.255.254
-Address:        10.255.255.254#53
+Address:         10.255.255.254#53
 
 Non-authoritative answer:
 Name:   guvi.in
